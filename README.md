@@ -1,6 +1,12 @@
 # Terraform x Okta
 
-This is a sample project to showcase how Terraform can be leveraged to create Okta resources.
+This is a sample project to showcase how Terraform can be leveraged to create Okta resources. This project will:
+ * Create an Okta Application (native)
+ * Create an Authorization Server
+    * Access Policy
+    * Claims
+    * Scopes
+  * Group
 
 ## Table of Contents
 
